@@ -1,3 +1,6 @@
+
+// Justin Rudolph
+
 public class Homework7 {
 
 	/* Use a while loop to add up the integers
