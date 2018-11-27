@@ -1,5 +1,5 @@
 
-// Justin Rudolph
+//  Justin Rudolph
 
 public class Homework7 {
 
